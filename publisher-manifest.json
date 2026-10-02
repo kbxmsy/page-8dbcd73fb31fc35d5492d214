@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "a0e14c7371855bc008c23349",
+  "owner": "kbxmsy",
+  "repo": "page-8dbcd73fb31fc35d5492d214",
+  "title": "HEY",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8dbcd73fb31fc35d5492d214",
+      "a": "HEY",
+      "b": "",
+      "entity": "HEY",
+      "brand": "HEY",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7c66e2a5015124893ff206de948d6598ab5dde94659ad0a8c0c8d9e1739a89a7",
+      "content": {
+        "keyword1": "HEY",
+        "keyword2": "",
+        "primary_entity": "HEY",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "HEY 提供专业机场VPN服务、梯子网络加速与多端客户端下载，支持流媒体解锁、游戏加速及团队订阅，访问HEY官方网站获取最新套餐与使用指引。",
+          "AI_DESCRIPTION": "HEY 提供专业机场VPN服务、梯子网络加速与多端客户端下载，支持流媒体解锁、游戏加速及团队订阅，访问HEY官方网站获取最新套餐与使用指引。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,sans-serif;background:#0a1628;color:#e8f4f8;font-size:16px;line-height:1.65;word-wrap:break-word}a{color:#00d4e0;text-decoration:none}header{background:#12263a;border-bottom:3px solid #00d4e0;padding:10px 0}.wrap{max-width:1080px;margin:0 auto;padding:0 16px}.nav{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px}.brand{font-size:1.5rem;font-weight:700;color:#00d4e0;letter-spacing:1px}nav ul{display:flex;flex-wrap:wrap;gap:14px;list-style:none;margin:0;padding:0}nav a{font-weight:600;font-size:0.95rem}main{padding:20px 0 40px}h1{font-size:clamp(1.6rem,5vw,2.2rem);text-align:center;color:#00e5ee;margin:20px 0 12px;font-weight:800}.lead{text-align:center;color:#b8d4dc;max-width:720px;margin:0 auto 32px;font-size:1.05rem}h2{font-size:1.35rem;color:#00d4e0;margin:36px 0 16px;padding-bottom:6px;border-bottom:1px solid #1e3a50}h3{font-size:1.1rem;color:#7ee8f0;margin:16px 0 8px}.alt{display:flex;flex-wrap:wrap;gap:24px;margin:20px 0;align-items:stretch}.alt>div{flex:1 1 300px;background:#12263a;padding:20px;border-radius:8px;border:1px solid #1e3a4f}.alt-reverse{flex-direction:row-reverse}.plans{display:flex;flex-wrap:wrap;gap:18px;justify-content:center;margin:20px 0}.card{flex:1 1 250px;max-width:340px;background:#152a40;border:1px solid #234058;border-radius:10px;padding:22px;display:flex;flex-direction:column}.card.feat{border:2px solid #00d4e0;background:#163044}.card h3{margin-top:0;color:#00e5ee}.price{font-size:1.6rem;font-weight:700;color:#00d4e0;margin:8px 0}.annual{font-size:0.9rem;color:#8fb8c4;margin-bottom:12px}.card ul{margin:0 0 12px;padding-left:18px;flex-grow:1}.card li{margin:6px 0}.badge{display:inline-block;background:#00d4e0;color:#0a1628;font-size:0.75rem;font-weight:700;padding:2px 8px;border-radius:4px;margin-bottom:8px}.clients{background:#0f2033;padding:24px;border-radius:10px;border:1px solid #00d4e0}.client-grid{display:flex;flex-wrap:wrap;gap:12px;margin-top:12px}.client-item{flex:1 1 140px;background:#1a3048;padding:14px;border-radius:6px;text-align:center;min-width:120px}.steps ol{padding-left:20px}.steps li{margin:10px 0}details{background:#152a40;border:1px solid #234058;border-radius:6px;margin:10px 0;padding:4px 14px}summary{font-weight:700;color:#00d4e0;padding:10px 0}details p{margin:0 0 12px;color:#c5dce3}footer{background:#0d1f30;border-top:2px solid #00d4e0;padding:28px 0;font-size:0.88rem;color:#8aa8b4}.foot-grid{display:flex;flex-wrap:wrap;gap:24px}.foot-grid>div{flex:1 1 200px}.adbox{background:#152a40;padding:12px;border:1px dashed #00a8b3;margin:16px 0;text-align:center;color:#7ec8d0}@media (max-width:640px){nav ul{gap:8px;font-size:0.85rem}.alt,.alt-reverse{flex-direction:column}h1{font-size:1.55rem}.card{max-width:100%}}</style><header><div class=\"wrap nav\"><div class=\"brand\">HEY</div><nav><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#clients\">客户端下载</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#faq\">常见问题</a></li></ul></nav></div></header><main><div class=\"wrap\"><h1>HEY 官方网站 · 机场 VPN 与网络加速客户端</h1><p class=\"lead\">HEY 专注稳定梯子网络加速与机场订阅服务，为个人与团队提供多端客户端下载、原生流媒体解锁及低延迟专线。欢迎访问 HEY 官网了解套餐并按指引完成配置。</p><section id=\"intro\"><h2>HEY 品牌简介</h2><p>HEY 是面向跨境网络需求打造的机场与 VPN 加速品牌。我们通过精选全球节点与智能分流，帮助用户在办公、学习、娱乐场景下获得更流畅的连接体验。HEY 官方网站集中展示套餐、客户端选择与操作说明，方便用户一次性完成订阅导入与节点连接。</p><p>服务覆盖 Windows、macOS、Android、iOS 及路由器环境。旗舰线路包含 IPLC 优化，适合游戏与实时通讯；团队版支持更多设备与定制路由，满足企业远程协作。HEY 坚持官方渠道发布配置指引，降低误下不明客户端的风险。</p></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"alt\"><div><h3>跨境办公与远程协作</h3><p>通过 HEY 稳定节点访问海外协作平台、代码仓库与云文档，减少超时与中断。团队版可统一订阅，方便成员在多台设备间切换。</p></div><div><h3>流媒体与内容解锁</h3><p>基础版已支持常见流媒体；旗舰版强调全节点原生解锁，观看体验更接近当地网络。配合客户端分流规则，国内应用可直连。</p></div></div><div class=\"alt alt-reverse\"><div><h3>游戏加速与低延迟</h3><p>旗舰版 IPLC 专线针对热门游戏区域优化，降低抖动。选择靠近服务器的节点，配合游戏模式规则，提升对战稳定性。</p></div><div><h3>学术检索与开发调试</h3><p>访问文献库、开发者文档与软件源时，HEY 提供持续在线的高速通道。支持 3 至 20 台设备，覆盖电脑、手机与测试机。</p></div></div></section><section id=\"plans\"><h2>HEY 套餐方案</h2><p>以下为官网当前套餐，流量按自然月重置。年付可锁定优惠价格。请根据设备数量与解锁需求选择，旗舰版适合大多数个人重度使用。</p><div class=\"plans\"><div class=\"card\"><h3>基础版</h3><div class=\"price\">¥15/月</div><div class=\"annual\">按年付仅需 ¥150/年</div><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a href=\"#guide\">查看开通说明</a></p></div><div class=\"card feat\"><div class=\"badge\">推荐</div><h3>旗舰版</h3><div class=\"price\">¥35/月</div><div class=\"annual\">按年付仅需 ¥350/年</div><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a href=\"#clients\">前往客户端选择</a></p></div><div class=\"card\"><h3>团队版</h3><div class=\"price\">¥85/月</div><div class=\"annual\">按年付仅需 ¥850/年</div><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a href=\"#guide\">查看团队接入说明</a></p></div></div></section><section id=\"clients\"><h2>客户端选择与官方下载指引</h2><div class=\"clients\"><p>HEY 采用通用机场订阅（Clash / Surge 兼容格式）。请优先使用成熟开源或商店上架客户端，从官方商店或项目发布页获取安装包，再在本页操作说明中导入订阅。HEY 官网不托管第三方安装包，以避免篡改风险。</p><div class=\"client-grid\"><div class=\"client-item\"><strong>Windows</strong><br>Clash Verge / Clash Meta<br><a href=\"#guide\">导入说明</a></div><div class=\"client-item\"><strong>macOS</strong><br>ClashX Meta / Surge<br><a href=\"#guide\">导入说明</a></div><div class=\"client-item\"><strong>Android</strong><br>Clash Meta for Android<br><a href=\"#guide\">导入说明</a></div><div class=\"client-item\"><strong>iOS</strong><br>Shadowrocket / Stash<br><a href=\"#guide\">导入说明</a></div><div class=\"client-item\"><strong>路由器</strong><br>OpenClash / 旁路由<br><a href=\"#guide\">导入说明</a></div><div class=\"client-item\"><strong>Linux</strong><br>Clash Premium / Meta<br><a href=\"#guide\">导入说明</a></div></div><p>下载提示：iOS 应用需使用支持的地区账户；Android 建议开启来源检查并核对包名。完成安装后回到操作说明完成订阅导入即可连接 HEY 节点。</p></div></section><section id=\"guide\"><h2>操作说明</h2><div class=\"steps\"><h3>从开通到连接的五步</h3><ol><li>在套餐方案中确认适合的版本（基础版、旗舰版或团队版），年付可降低月均成本。</li><li>通过 HEY 官方提供的订阅渠道获取专属订阅链接（请仅在官网公示的方式获取，避免泄露）。</li><li>按照上方客户端选择下载并安装对应平台软件，首次启动授予必要网络权限。</li><li>在客户端中选择“从 URL 导入”或“订阅管理”，粘贴 HEY 订阅地址，更新节点列表。</li><li>开启系统代理或 TUN 模式，选择延迟较低的节点（游戏可选 IPLC），测试连通后即可日常使用。可按域名设置分流，国内流量直连。</li></ol><h3>日常维护建议</h3><p>定期在客户端内更新订阅以获取最新节点。流量将尽时升级套餐或等待重置。若某节点异常，切换同区域备用节点。团队用户可由管理员统一下发订阅并限制设备数。</p></div></section><section id=\"nodes\"><h2>节点与性能说明</h2><p>HEY 节点覆盖东亚、北美、欧洲及东南亚主要网络枢纽，普通线路适合网页与轻量应用，旗舰 IPLC 与 VIP 带宽更适合大流量与实时业务。我们持续优化峰值时段容量，实际体验与当地宽带及运营商路由有关。</p><p>官方身份：本页为 HEY 品牌信息与下载指引中心。请认准页面结构与品牌名称 HEY，谨防仿冒站点索要额外费用或安装不明软件。</p></section><section id=\"faq\"><h2>常见问题 FAQ</h2><details><summary>HEY 是 VPN 还是机场？两者有何不同？</summary><p>HEY 以机场订阅方式提供网络加速，一份订阅可导入 Clash、Shadowrocket 等多种客户端，节点与规则更灵活。传统单一 APP VPN 通常绑定自家软件。HEY 同时满足梯子加速与多设备协同需求。</p></details><details><summary>如何在官网完成客户端下载？</summary><p>HEY 官网提供平台对照与导入指引，客户端安装包请前往各应用商店或开源项目正式发布页。选择与系统匹配的版本后，回到本页操作说明粘贴订阅即可，无需在仿冒下载站寻找来路不明的安装包。</p></details><details><summary>基础版、旗舰版和团队版如何选择？</summary><p>轻度使用、3 台设备以内可选基础版。需要原生流媒体、游戏 IPLC 与优先支持建议旗舰版。公司或家庭多成员、需要 20 台设备及定制路由则选择团队版。年付价格已在各卡片标明。</p></details><details><summary>支持哪些流媒体与游戏场景？</summary><p>基础版覆盖常见视频平台的基础解锁。旗舰版强调全节点原生解锁，并针对游戏加速优化 IPLC。具体可用性随目标网站策略变化，遇到地区限制时可更换同套餐下其他节点。</p></details><details><summary>设备数超限或流量用尽怎么办？</summary><p>同时在线设备超过套餐上限时，新设备可能无法连接，请下线闲置终端或升级。流量按月重置，用尽后加速通道将受限，可等待重置或升级套餐。团队版可申请临时扩容说明。</p></details><details><summary>HEY 订阅如何保管才更安全？</summary><p>请妥善保管个人订阅链接，不要在公开群组传播。建议仅通过 HEY 官网公示渠道获取配置。请将服务用于合法的网络加速与访问需求，并在客户端中开启加密传输。</p></details><details><summary>手机和电脑可以共用一个订阅吗？</summary><p>可以。同一 HEY 订阅在设备数量限制内可多端导入。注意各端同时在线计入设备数。iOS 与 Android 客户端界面不同，但订阅 URL 通用，导入后即可选择节点连接。</p></details></section><div class=\"adbox\">广告位：HEY 欢迎品牌与工具类网站互换文字链，详情见页脚说明。</div></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><div class=\"foot-grid\"><div><strong>HEY 官网</strong><p>HEY 机场 VPN 梯子网络加速服务信息页。客户端下载请遵循本页指引。</p></div><div id=\"sitemap\"><strong>网站地图</strong><p><a href=\"#intro\">品牌简介</a> · <a href=\"#scenes\">使用场景</a> · <a href=\"#plans\">套餐方案</a> · <a href=\"#clients\">客户端下载</a> · <a href=\"#guide\">操作说明</a> · <a href=\"#faq\">FAQ</a></p></div><div><strong>友情链接</strong><p><a href=\"#\">网络工具导航</a> · <a href=\"#\">开源客户端文档</a> · <a href=\"#\">分流规则参考</a> · <a href=\"#clients\">HEY 客户端专区</a></p></div><div><strong>联系与声明</strong><p>本站为 HEY 官方网站静态说明页。请勿通过不明第三方链接支付。广告与友链仅作信息展示。</p></div></div><p>© HEY 官方网站 · 保留品牌名称与套餐说明权利</p></div></footer>",
+          "hash": "a1971169815a7df33064a717c1d0af879c6fed64855ed17ea3ac6427fcb1fc96",
+          "seo": {
+            "title": "HEY官网 - HEY机场 VPN梯子网络加速器与客户端官方下载",
+            "keywords": "HEY,HEY机场,HEY VPN,HEY官网,梯子,网络加速,加速器,客户端下载,机场订阅,官方下载,Clash客户端",
+            "description": "HEY 提供专业机场VPN服务、梯子网络加速与多端客户端下载，支持流媒体解锁、游戏加速及团队订阅，访问HEY官方网站获取最新套餐与使用指引。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "kksbaoo.cn",
+    "host": "p-a089d805cc.kksbaoo.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "hj367c.cn",
+      "url": "https://hj367c.cn/",
+      "label": "HEY",
+      "apex": "hj367c.cn",
+      "kind": null,
+      "identity": "gyhnusbwhx/page-89573bddc758630c160bb7c6"
+    },
+    {
+      "host": "qhigz.cn",
+      "url": "https://qhigz.cn/",
+      "label": "HEY",
+      "apex": "qhigz.cn",
+      "kind": null,
+      "identity": "jmujsmm/page-eff2a2163724278c3182b57d"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "3e7e2567fb57dc424854f0641106ed3e18107daa53c1fcda0bba8e8137262bd9",
+    "sitemap.xml": "87e4b4fbd20cf50158f0e36733c21b5329152887c51d80fa744b9a2da1dc6940",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1e775cf73932150dee356fcab87bc44bbeffe9bb07f09ed30c27f0beda3d676b",
+    "robots.txt": "b4178079d5fc63671ab1d4b36603ea4be4355518033a369917633513019da50c",
+    "d5db50a2542ae328d59af085adec4bf2.txt": "d91cb01f2a286600e4d53e8c8ea95c0b0f3ed02efdbad1d0ce471fecb4bc9a62"
+  },
+  "revision": "629998befd8fc2f5b2508fc7c68df0534797530a4bbd7b4a062690ee216642ce"
+}
